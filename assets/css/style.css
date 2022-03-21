@@ -292,7 +292,7 @@ body {
 }
 .children {
     position: relative;
-    background: url("/assets/images/ebalo.png") center no-repeat;
+    background: url("../images/ebalo.png") center no-repeat;
     width: 400px;/* здесь поставишь свои размеры*/
     height: 700px;
     background-color: rgba(0,0,0);
