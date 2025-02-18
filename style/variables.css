@@ -1,0 +1,69 @@
+:root {
+    /* body */
+    --backgroun-color: #F5F5F7;
+    --color-primary: #161616;
+    --font-family: 'Inter', sans-serif;
+    /* wrapper */
+    --max-width: 1744px;
+    --page-pading: 0px 20px;
+    /* nav */
+    --color-second: white;
+    --color-text-hover-nav: #FFDB4F;
+    --nav-bg: black;
+    --gap-elements: 20px;
+    /* header */
+    --bg-white: white;
+
+    --padding-btn: 14.5px, 16px;
+    --padding-input-search: 15.5px, 16px;
+    --border-radius: 4px;
+    --border-items: 2px solid #DADAE3;
+
+    --badge-bg: #2979ff;
+    --badge-color: #fff;
+    --badge-weight: 20px;
+    --badge-font-size: 12px;
+
+    /* search-elements-icon */
+    --bg-search-elements-icon: #2F88FF;
+
+    /* btn page selection section */
+    --background-section-btn-page-selection: white;
+    --opacity: 50%;
+    --opacity-hover: 1;
+
+    /* Размеры шрифта */
+    --font-size-small: 12px;
+    --font-size-sm: 14px;
+    --font-size-base: 16px;
+    --font-size-md: 18px;
+    --font-size-lg: 20px;
+    --font-size-xl: 24px;
+    --font-size-xxl: 32px;
+
+    /* черные кнопки */
+    --bg-black-bth: black;
+    --border: #DADAE3;
+
+    /* карты с товаром */
+    --header-bg: red;
+    --comparisons-bg: #2F88FF;
+    --product-cards-text: #494851;
+
+    --progress-bar-bg: black;
+    --border-top: #dad9e1;
+    --discount-price-color: red;
+
+    /* дроп меню каталог */
+    --gap-labels: 16px;
+}
+.container{
+    max-width: var(--max-width);
+    margin: 0 auto;
+}
+.mt-80 {
+    margin-top: 80px;
+}
+.wrapper{
+    max-width: 100vw;
+}
